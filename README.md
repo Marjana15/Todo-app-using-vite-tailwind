@@ -23,7 +23,7 @@ Whether you're managing work, school, or personal projects, our app provides the
 ## Tech Stack
 
 - **Client**: Vite, React, Redux, TailwindCSS
-- **Server**: Node.js, Express
+- **Server**: Node.js
 
 ## 🛠 Skills
 
